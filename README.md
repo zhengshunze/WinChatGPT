@@ -1,5 +1,4 @@
 # WinChatGPT
-![image](https://user-images.githubusercontent.com/77151276/235167832-4c3c0823-1d36-4950-831a-8968dbfe3db9.png)
 
 
 ![image](https://github.com/zhengshunze/WinChatGPT/assets/77151276/18cd956f-ff7d-4e8b-a0ac-b5a3f81c7bf0)
