@@ -1,7 +1,11 @@
 # WinChatGPT
 <img width="1420" alt="light dark" src="https://github.com/zhengshunze/WinChatGPT/assets/77151276/c87665e3-a733-4520-9205-153fc9b1f2b2">
 
+
+## Dark/Light Mode
+
 ![image](https://github.com/zhengshunze/WinChatGPT/assets/77151276/49b7210e-65f5-46bd-b86b-113a42a74335)
+
 
 ![image](https://github.com/zhengshunze/WinChatGPT/assets/77151276/a463aab5-c05c-4996-be10-6b78a0ec067e)
 
