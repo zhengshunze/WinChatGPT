@@ -2,6 +2,7 @@
 
 ![image](https://github.com/zhengshunze/WinChatGPT/assets/77151276/49b7210e-65f5-46bd-b86b-113a42a74335)
 
+![image](https://github.com/zhengshunze/WinChatGPT/assets/77151276/a463aab5-c05c-4996-be10-6b78a0ec067e)
 
 ![image](https://github.com/zhengshunze/WinChatGPT/assets/77151276/18cd956f-ff7d-4e8b-a0ac-b5a3f81c7bf0)
 
