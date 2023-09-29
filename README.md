@@ -25,3 +25,8 @@ https://github.com/zhengshunze/WinChatGPT/assets/77151276/fc087581-570e-4d90-b30
 - Connection to Internet
 
 ![Connection to Interne](https://github.com/zhengshunze/WinChatGPT/assets/77151276/dd7aaac3-855a-4136-86f2-eeb5cdb43ee5)
+
+- AI Image Generator
+ 
+![image](https://github.com/zhengshunze/WinChatGPT/assets/77151276/aac457b9-de56-4a51-bba2-d9b137bc0f12)
+
