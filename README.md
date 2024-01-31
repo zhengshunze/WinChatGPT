@@ -1,7 +1,8 @@
 
 # WinChatGPT 
 
-[WinChatGPT 2.0 　=>　WinGPT　](https://github.com/zhengshunze/WinGPT)
+### Update
+- WinChatGPT 2.0 　=>　[WinGPT](https://github.com/zhengshunze/WinGPT)
 
 
 
