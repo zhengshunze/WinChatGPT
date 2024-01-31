@@ -1,4 +1,9 @@
+
 # WinChatGPT 
+
+[WinChatGPT 2.0 　=>　WinGPT　](https://github.com/zhengshunze/WinGPT)
+
+
 
 ### Dark/Light Mode
 <img width="1420" alt="light dark" src="https://github.com/zhengshunze/WinChatGPT/assets/77151276/c87665e3-a733-4520-9205-153fc9b1f2b2">
